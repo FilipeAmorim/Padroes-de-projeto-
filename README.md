@@ -19,4 +19,4 @@
    - Usuario do Singleton.
    - Está interessado na instância, não importa se é uma só no programa todo.
 ###### 7. **Sample Code:**
-[github.com/lufalves23/PadroesDeProjeto/padroes/src/br/padroes/singleton/](https://github.com/lufalves/PadroesDeProjeto/tree/master/padroes/src/br/padroes/singleton)
+
